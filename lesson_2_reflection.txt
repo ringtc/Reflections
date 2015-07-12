@@ -15,3 +15,14 @@ What are some situations when branches would be helpful in keeping your history 
 
   If you wanted to try something that may not work, and if it was more than a trival change, then a new brance may be a good idea.
 
+How do the diagrams help you visualize the branch structure?
+
+  It makes it easy to see where your code came from and what other work has been done that your branch doesn't have access to.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+  Merging two branches together creates one new branch that combines all the changes from both parents of the merge.  It's represented as it is to show the two parents.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+  Auto merging saves much time and should eliminate mistakes.
